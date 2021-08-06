@@ -1,11 +1,5 @@
 function Tempo(props) {
-  const
-
-  return (
-    <div>
-      {} dinamico
-    </div>
-  )
+  return <div>Tempo</div>
 }
 
 export default Tempo
